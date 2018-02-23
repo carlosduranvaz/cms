@@ -54,7 +54,6 @@ Sencillo y ligero CMS basado en PHP, open source y gratuito
 
 ### Cons
 - Apenas hay temas disponibles
-- No parece demasiado flexiblehttps://pagekit.com/
-
+- No parece demasiado flexible
 ### Enlaces
 - https://pagekit.com/
