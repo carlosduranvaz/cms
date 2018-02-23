@@ -43,3 +43,18 @@ Open Source, gratuito, basado en PHP, muy buenas opiniones en rankings (incluido
 - https://processwire.com/
 - Opiniones: https://purely.space/processwire-cms-pros-cons/
 - Guía para principiantes (Smashing Magazine): https://www.smashingmagazine.com/2016/07/the-aesthetic-of-non-opinionated-content-management-a-beginners-guide-to-processwire/
+
+## Pagekit
+Sencillo y ligero CMS basado en PHP, open source y gratuito
+
+### Pros
+- Sencillo e intuitivo
+- Uso de markdown para introducir contenido
+- Fácil instalación
+
+### Cons
+- Apenas hay temas disponibles
+- No parece demasiado flexiblehttps://pagekit.com/
+
+### Enlaces
+- https://pagekit.com/
