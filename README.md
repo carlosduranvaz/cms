@@ -45,7 +45,7 @@ Open Source, gratuito, basado en PHP, muy buenas opiniones en rankings (incluido
 - Guía para principiantes (Smashing Magazine): https://www.smashingmagazine.com/2016/07/the-aesthetic-of-non-opinionated-content-management-a-beginners-guide-to-processwire/
 
 ## Pagekit
-Sencillo y ligero CMS basado en PHP, open source y gratuito
+Sencillo y ligero CMS basado en PHP (Symfony y Vue.js), open source y gratuito
 
 ### Pros
 - Sencillo e intuitivo
